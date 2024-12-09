@@ -1,0 +1,14 @@
+{
+  "nmap": {
+    "command_line": "nmap -oX - -p 443 -sV 104.130.74.245",
+    "scaninfo": { "tcp": { "method": "connect", "services": "443" } },
+    "scanstats": {
+      "timestr": "Mon Dec  9 04: 34: 52 2024",
+      "elapsed": "3.13",
+      "uphosts": "0",
+      "downhosts": "1",
+      "totalhosts": "1"
+    }
+  },
+  "scan": {}
+}

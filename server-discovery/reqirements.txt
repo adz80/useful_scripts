@@ -1,0 +1,6 @@
+dnspython @ git+https://github.com/rthalley/dnspython@049777d348eaacf667e795902a08a0f12a4abd71
+gitdb==4.0.11
+GitPython==3.1.41
+python-nmap==0.7.1
+setuptools==69.0.3
+smmap==5.0.1
